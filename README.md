@@ -59,9 +59,10 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
     - [Docker](#Docker)
 - [资源](#资源)
     - [书单](#书单)
-    - [Github榜单](#Github榜单)
+    - [实战项目推荐](#实战项目推荐)
+    - [Github历史榜单](#Github历史榜单)
 - [待办](#待办)
-- [说明](#说明)
+
 
 ## Java
 
@@ -246,7 +247,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 - [onemall](https://github.com/YunaiV/onemall) : mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
 
-### Github 历史榜单
+### Github榜单
 
 - [Java 项目月榜单](docs/github-trending/JavaGithubTrending.md)
 
@@ -254,9 +255,9 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 ## 待办
 
-- [ ] Java 多线程类别知识重构(---正在进行中---)
-- [ ] Netty 总结(---正在进行中---)
-- [ ] 数据结构总结重构(---正在进行中---)
+- [ ] Java 多线程类别知识重构(正在进行中。。。。。。)
+- [ ] Netty 总结(正在进行中。。。。。。)
+- [ ] 数据结构总结重构(正在进行中。。。。。。)
 
 
 
