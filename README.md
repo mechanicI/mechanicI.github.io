@@ -154,6 +154,8 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 * [数据库索引总结](docs/database/MySQL%20Index.md)
 * [事务隔离级别(图文详解)](docs/database/事务隔离级别(图文详解).md)
 * [一条SQL语句在MySQL中如何执行的](docs/database/一条sql语句在mysql中如何执行的.md)
+* [查询优化的Explain详解一](docs/database/查询优化的Explain详解一.md)
+* [查询优化的Explain详解二](docs/database/查询优化的Explain详解二.md)
 
 ### Redis
 
