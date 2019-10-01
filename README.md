@@ -19,7 +19,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 ### 为什么要做这个开源文档？
 
-初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来书写博客，整理收集面试过程出现过的问题，内容由其他[博客](https://github.com/Snailclimb/JavaGuide)加自己理解组成。
+初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来书写博客，整理收集面试过程出现过的问题，内容由其他[博客](https://github.com/Snailclimb/JavaGuide)https://github.com/Snailclimb/JavaGuide 加自己理解组成。
 
 
 
