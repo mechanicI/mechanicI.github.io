@@ -23,7 +23,14 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来书写博客，整理收集面试过程出现过的问题，内容由其他[博客](https://github.com/Snailclimb/JavaGuide)https://github.com/Snailclimb/JavaGuide 加自己理解组成。
 
-
+### 写博客准则
+拿到一个新技术或者技术点：
+    第一：这个技术是什么，能干什么
+    第二：怎么用这个技术
+    第三：这样用的底层原理是什么
+    第四：技术实战，实际问题解决
+    第五：经验教训，心得
+    第六：梳理成博文
 
 ## 目录
 
