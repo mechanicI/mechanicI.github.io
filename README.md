@@ -72,6 +72,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 * [Java 基础知识疑难点/易错点](docs/java/Java疑难点.md)
 * [一些重要的Java程序设计题](docs/java/Java程序设计题.md)
 * [J2EE 基础知识回顾](docs/java/J2EE基础知识.md)
+* [jdk静态代理和动态代理和cglib动态代理](docs/java/静态代理和动态代理.md)
 
 ### 容器
 
@@ -102,6 +103,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 * [BIO,NIO,AIO 总结 ](docs/java/BIO-NIO-AIO.md)
 * [Java IO 与 NIO系列文章](docs/java/Java%20IO与NIO.md)
+* [java序列化和反序列化](docs/java/java序列化和反序列化.md)
 
 ### Java 8 
 
