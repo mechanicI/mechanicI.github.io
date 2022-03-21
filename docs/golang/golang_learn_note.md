@@ -33,6 +33,77 @@ Go语言的推出，旨在不损失应用程序性能的情况下降低代码的
 
 
 # 开发环境搭建mac
+下载golang ：地址：
+https://go.dev/dl/
+或者
+```
+brew install go
+```
+查看版本
+```
+➜  ~ go version
+go version go1.17.8 darwin/amd64
+➜  ~ 
+➜  ~ 
+```
+
+配置golang 环境变量： go env -w valiables="xxx"
+
+或者环境变量配置：vim ~/.bash_profile
+```
+export GO111MODULE=on
+export GOPROXY=https://goproxy.cn,direct
+export GOSUMDB=off
+....
+```
+
+查看go环境配置指令：
+```
+go env
+```
+当前配置：
+```
+GO111MODULE="on"
+GOARCH="amd64"
+GOBIN=""
+GOCACHE="/Users/mr.q/Library/Caches/go-build"
+GOENV="/Users/mr.q/Library/Application Support/go/env"
+GOEXE=""
+GOEXPERIMENT=""
+GOFLAGS=""
+GOHOSTARCH="amd64"
+GOHOSTOS="darwin"
+GOINSECURE=""
+GOMODCACHE="/Users/mr.q/go/pkg/mod"
+GONOPROXY=""
+GONOSUMDB=""
+GOOS="darwin"
+GOPATH="/Users/mr.q/go"
+GOPRIVATE=""
+GOPROXY="https://goproxy.cn,direct"
+GOROOT="/usr/local/go"
+GOSUMDB="off"
+GOTMPDIR=""
+GOTOOLDIR="/usr/local/go/pkg/tool/darwin_amd64"
+GOVCS=""
+GOVERSION="go1.17.8"
+GCCGO="gccgo"
+AR="ar"
+CC="clang"
+CXX="clang++"
+CGO_ENABLED="1"
+GOMOD="/dev/null"
+CGO_CFLAGS="-g -O2"
+CGO_CPPFLAGS=""
+CGO_CXXFLAGS="-g -O2"
+CGO_FFLAGS="-g -O2"
+CGO_LDFLAGS="-g -O2"
+PKG_CONFIG="pkg-config"
+GOGCCFLAGS="-fPIC -arch x86_64 -m64 -pthread -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=/var/folders/1l/bw6_mxmd27q3f4whnsl6pt0w0000gn/T/go-build485793739=/tmp/go-build -gno-record-gcc-switches -fno-common"
+```
+>注意：有些会在安装时自动配置的 这里重点关注：
+`GO111MODULE="on"`,`GOPROXY="https://goproxy.cn,direct"`,`GOSUMDB="off"`
+> 这三项配置
 
 
 # 开发工具破解
