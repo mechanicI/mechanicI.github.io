@@ -1,8 +1,8 @@
 
 
 
-## mechanicI.github.io
-
+## mechanicI.github.io by munger
+######             ***********不羡千金买歌舞，一篇珠玉是生涯***********
 ## 序言
 
 ### 介绍
@@ -21,16 +21,23 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 ### 为什么要做这个开源文档？
 
-为什么要写这个博客呢？初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来书写博客，整理收集面试过程出现过的问题，内容由其他[博客](https://github.com/Snailclimb/JavaGuide)https://github.com/Snailclimb/JavaGuide 加自己理解组成。
+为什么要写这个博客呢？初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来书写博客，整理收集面试过程出现过的问题，内容由其他[博客](https://github.com/Snailclimb/JavaGuide)https://github.com/Snailclimb/JavaGuide 
+加上自己在工作中学习成果组成。
 
-### 写博客准则
-#### 拿到一个新技术或者技术点：
-* **第一：** 这个技术是什么，能干什么
-* **第二：** 怎么用这个技术
-* **第三：** 这样用的底层原理是什么
-* **第四：** 技术实战，实际问题解决
-* **第五：** 经验教训，心得
-* **第六：** 梳理成博文
+
+### 为什么要看源码：
+- 提升技术功底：学习源码里的优秀设计思想，比如一些疑难问题的解决思路，还有一些优秀的设计模式，整体提升自己的技术功底
+- 深度掌握技术框架：源码看多了，对于一个新技术或框架的掌握速度会有大幅提升，看下框架demo大致就能知道底层的实现，技术框架更新再快也不怕
+- 快速定位线上问题：遇到线上问题，特别是框架源码里的问题(比如bug)，能够快速定位，这就是相比其他没看过源码的人的优势
+- 对面试大有裨益：面试一线互联网公司对于框架技术一般都会问到源码级别的实现
+- 知其然知其所以然：对技术有追求的人必做之事，使用了一个好的框架，很想知道底层是如何实现的
+- 拥抱开源社区：参与到开源项目的研发，结识更多大牛，积累更多优质人脉
+
+### 看源码方法：
+- 先使用：先看官方文档快速掌握框架的基本使用
+- 抓主线：找一个demo入手，顺藤摸瓜快速静态看一遍框架的主线源码，画出源码主流程图，切勿一开始就陷入源码的细枝末节，否则会把自己绕晕，凭经验猜
+- 画图做笔记：总结框架的一些核心功能点，从这些功能点入手深入到源码的细节，边看源码边画源码走向图，并对关键源码的理解做笔记，把源码里的闪光点都记录下来，后续借鉴到工作项目中，理解能力强的可以直接看静态源码，也可以边看源码边debug源码执行过程，观察一些关键变量的值
+- 整合总结：所有功能点的源码都分析完后，回到主流程图再梳理一遍，争取把自己画的所有图都在脑袋里做一个整合
 
 ## 目录
 
@@ -122,6 +129,10 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 - [Java 编程规范](docs/java/Java编程规范.md)
 
+## Golang
+### Golang学习
+* [Golang学习](docs/golang/golang_learn_note.md)
+
 ## 网络
 
 * [计算机网络常见面试题](docs/network/计算机网络.md)
@@ -186,6 +197,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 - [ZooKeeper 相关概念总结](docs/system-design/framework/ZooKeeper.md)
 - [ZooKeeper 数据模型和常见命令](docs/system-design/framework/ZooKeeper数据模型和常见命令.md)
+- [Zookeeper分布式一致性协议ZAB](docs/system-design/framework/Zookeeper分布式一致性协议ZAB.md)
 
 ### 权限认证
 
@@ -248,8 +260,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 
 
-### Golang
-* [Golang学习](docs/golang/golang_learn_note.md)
+
 
 
 ## 资源
