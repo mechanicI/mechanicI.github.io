@@ -160,7 +160,7 @@ export BASE_URL=/admin/api
 ```
 source ~/.bash_profile
 ```
-在Goland 环境变量配置菜单，可以看到如下配置，说明已经配置生效了。
+在Goland 环境变量配置菜单，可以看到如下配置，说明已经配置生效了，开始编写代码吧！
 
 ![img.png](../images/go/golang_env.png)
 
